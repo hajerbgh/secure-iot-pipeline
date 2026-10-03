@@ -1,0 +1,8 @@
+.env
+*.key
+*.srl
+*.csr
+*.crt
+*.pem
+mosquitto/config/certs/
+data/
